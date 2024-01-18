@@ -1,0 +1,33 @@
+
+button 
+{
+  background-color: plum;
+  color: black;
+  padding: 15px 25px;
+  font-size: 16px;
+  cursor: pointer;
+  border: 2px solid darkblue;
+}
+
+button:hover 
+{
+  background-color: darkmagenta;
+}
+
+h1
+{
+  color: darkblue;
+}
+
+p 
+{
+  font-size: 16px;
+  margin-top: 12px;
+  color: darkblue
+}
+
+body
+{
+  text-align: center;
+  background-color: lightskyblue;
+}
